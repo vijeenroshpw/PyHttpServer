@@ -1,0 +1,9 @@
+A python based toy http server . 
+
+This server like apache( but limited in some capabality) will communicate with a browser . There is a demonstration of the working of this server in the youtube 
+
+http://youtu.be/SAXr7Jkv8R8
+
+
+
+This server intended as a educational tool for teaching , what is a basic sever , and how servers are written , how do they handle requests and other issues regurarding he server writting from scratch
